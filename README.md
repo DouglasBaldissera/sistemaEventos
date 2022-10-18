@@ -1,5 +1,5 @@
 # sistemaEventos
-Software de sistema de eventos criado na disciplina de Arquitetura de Software no curso de Engenharia da Computação pela Univates.
+Software de sistema de eventos criado na disciplina de Arquitetura de Software no curso de Engenharia da Computação pela Univates usando HTML, CSS, JavaScript e Laravel em PHP, utilizando conceitos de microsserviços.
 
 Imaginemos um pequeno sistema para gerência de eventos. Os usuários podem acessar o portal, pesquisar por eventos disponíveis e inscrever-se. Após a inscrição, é permitido ao usuário consultar suas inscrições e também cancelar, desde que dentro do período aceitável para cancelamento.
 
