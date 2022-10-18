@@ -1,0 +1,1 @@
+Pasta sistemaEventos é a pasta principal. Ela usa os microserviços que estão dentro da pasta microserviços, feitos em Laravel.
